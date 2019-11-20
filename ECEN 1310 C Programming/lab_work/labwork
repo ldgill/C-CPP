@@ -1,0 +1,5 @@
+int main (int arge, char * arge []){
+arge [2][2];
+int num = 0
+char character
+scanf("%d, %c",&num,&character);
